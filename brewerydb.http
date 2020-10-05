@@ -1,0 +1,5 @@
+GET https://sandbox-api.brewerydb.com/v2/beers?key=7c2d89b74b48c7dbf668dd6dc857d28f
+
+###
+
+GET https://sandbox-api.brewerydb.com/v2/beer/c4f2KE?key=7c2d89b74b48c7dbf668dd6dc857d28f
