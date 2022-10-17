@@ -20,4 +20,4 @@ Comme énoncé en cockpit, l'authentification peut avoir pas mal d'utilités, le
 - limiter l'utilisation d'un service pour éviter les attaques
 - tirer des statistiques sur ce qui est vraiment utilisé de l'API
 
-Pour les API proposant une authentification, la plupart proposera de passer la clé d'API dans la query string (exemple avec BreweryDB dans le fichier _brewerydb.http_). Les plus excentriques proposeront de passer la clé dans un header HTTP. Dans tous les cas, ça ne se devine pas : c'est dans la doc :wink:
+Pour les API proposant une authentification, la plupart proposera de passer la clé d'API dans la query string (exemple avec BreweryDB dans le fichier _brewerydb.http_). Les plus excentriques proposeront de passer la clé dans un header HTTP. Dans tous les cas, ça ne se devine pas : c'est dans la doc :wink:# Beer_API
